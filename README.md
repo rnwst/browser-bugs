@@ -24,6 +24,7 @@ Below is a list of browser bugs I came across during my web-development-related 
 | --- | --- | --- | --- |
 | [104169](https://bugs.webkit.org/show_bug.cgi?id=104169) | Data URI SVG Fills/Filters | Unresolved | No |
 | [23113](https://bugs.webkit.org/show_bug.cgi?id=23113) | Layer content inside HTML in SVG foreignObject renders in the wrong place | Unresolved | No |
+| [258877](https://bugs.webkit.org/show_bug.cgi?id=258877) | Fallback font chosen over NotoColorEmoji when U+FE0F emoji variation selector is present | Unresolved | No |
 
 plus a multitude of various SVG-specific bugs, which I hadn't had the nerve to report yet.
 
